@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.project-card-container {
+  width: 100%;
+  text-align: left;
+}
+.project-image {
+  width: 100%;
+}
+.project-bottom-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bottom-side-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.project-header-heading {
+}
+.calender-icon {
+  margin-right: 10px;
+}
+.duration-text {
+}
